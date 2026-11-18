@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="JetBrains.Annotations" Version="2026.2.0" PrivateAssets="all" />
-    <PackageReference Include="Lib.Harmony" Version="3.0.0-rc.5" PrivateAssets="all" />
+    <PackageReference Include="Lib.Harmony" Version="3.0.0-rc.7" PrivateAssets="all" />
   </ItemGroup>
 
 </Project>
